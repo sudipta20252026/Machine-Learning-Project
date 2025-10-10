@@ -1,1 +1,1 @@
-# Machine-Learning-Project
+It is a Retail Analytics Machine Learning Project
